@@ -1,0 +1,31 @@
+{
+    "name": "laravel-extension-pack",
+    "displayName": "Laravel Extension Pack",
+    "description": "A collection of extensions for Laravel development",
+    "version": "0.1.0",
+    "publisher": "onecentlin",
+    "repository": "https://github.com/onecentlin/laravel-extension-pack-vscode",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#f66f62",
+        "theme": "dark"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "laravel",
+        "blade",
+        "php"
+    ],
+    "extensionDependencies": [
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets",
+        "EditorConfig.EditorConfig",
+        "felixfbecker.php-debug",
+        "felixfbecker.php-intellisense"
+    ]
+}
