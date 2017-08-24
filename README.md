@@ -8,6 +8,7 @@ Extension | Version | Objective
 --------- | ------- | ---------
 [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/onecentlin.laravel-blade.svg) | Laravel blade snippets and syntax highlight support
 [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/onecentlin.laravel5-snippets.svg) |Laravel 5 snippets
+[Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/ryannaddy.laravel-artisan.svg) |Laravel Artisan
 
 > Preferences -> User Settings
 > ```json

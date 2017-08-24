@@ -24,6 +24,7 @@
     "extensionDependencies": [
         "onecentlin.laravel-blade",
         "onecentlin.laravel5-snippets",
+        "ryannaddy.laravel-artisan",
         "EditorConfig.EditorConfig",
         "felixfbecker.php-debug",
         "felixfbecker.php-intellisense"
