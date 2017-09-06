@@ -10,12 +10,17 @@ Extension | Version | Objective
 [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/onecentlin.laravel5-snippets.svg) |Laravel 5 snippets
 [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/ryannaddy.laravel-artisan.svg) |Laravel Artisan
 
-> Preferences -> User Settings
+> Preferences -> Settings
 > ```json
-> "emmet.syntaxProfiles": {
+> "emmet.includeLanguages": {
 >    "blade": "html"
 >},
+>"emmet.triggerExpansionOnTab": true,
 >```
+>
+> p.s. Since VS Code v1.15, please update preference settings from `emmet.syntaxProfiles` to `emmet.includeLanguages`.
+>
+> Please set `emmet.triggerExpansionOnTab` value to `true` if you want to enable tab to expanse emmet tags.
 
 ## PHP Extensions
 

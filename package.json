@@ -2,9 +2,12 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions for Laravel development",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "onecentlin",
-    "repository": "https://github.com/onecentlin/laravel-extension-pack-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/onecentlin/laravel-extension-pack-vscode"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
