@@ -2,7 +2,7 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions for Laravel development",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
