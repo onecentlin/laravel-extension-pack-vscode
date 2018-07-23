@@ -30,6 +30,7 @@
         "ryannaddy.laravel-artisan",
         "EditorConfig.EditorConfig",
         "felixfbecker.php-debug",
-        "felixfbecker.php-intellisense"
+        "felixfbecker.php-intellisense",
+        "MS-vsliveshare.vsliveshare"
     ]
 }

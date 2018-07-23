@@ -34,6 +34,7 @@ Extension | Objective
 Extension | Objective
 --------- | ---------
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
+[VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Adds real-time collaborative editing and debugging into VS Code.
 
 ## Contact
 
