@@ -24,7 +24,7 @@
         "blade",
         "php"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "onecentlin.laravel-blade",
         "onecentlin.laravel5-snippets",
         "ryannaddy.laravel-artisan",
