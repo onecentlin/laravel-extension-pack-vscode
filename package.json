@@ -9,7 +9,7 @@
         "url": "https://github.com/onecentlin/laravel-extension-pack-vscode"
     },
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.26.0"
     },
     "icon": "icon.png",
     "galleryBanner": {
