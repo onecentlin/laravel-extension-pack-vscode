@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
 
+## 0.4.0 - 2018-08-18
+
+- Use `extensionPack` for vs code ^1.26. ([@sandy081](https://github.com/sandy081)) - [PR #6](https://github.com/onecentlin/laravel-extension-pack-vscode/pull/6))
+
+## 0.3.2 - 2018-08-18
+
+- Fix `extensionDependencies` for older vs code version. ([@sandy081](https://github.com/sandy081)) - [PR #5](https://github.com/onecentlin/laravel-extension-pack-vscode/pull/5))
+
 ## 0.3.0 - 2018-07-23
 
 - Add `VS Live Share` extension. ([@lostintangent](https://github.com/lostintangent) - [PR #2](https://github.com/onecentlin/laravel-extension-pack-vscode/pull/2))
