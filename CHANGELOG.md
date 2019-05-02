@@ -1,5 +1,11 @@
 # Change Log
+
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
+
+## 0.5.0 - 2019-05-02
+
+- Add `Laravel goto view` extension.
+- Add `DotENV` extension.
 
 ## 0.4.0 - 2018-08-18
 
