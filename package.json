@@ -2,7 +2,7 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions for Laravel development",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
@@ -33,7 +33,7 @@
         "mikestead.dotenv",
         "EditorConfig.EditorConfig",
         "felixfbecker.php-debug",
-        "felixfbecker.php-intellisense",
+        "bmewburn.vscode-intelephense-client",
         "MS-vsliveshare.vsliveshare"
     ]
 }

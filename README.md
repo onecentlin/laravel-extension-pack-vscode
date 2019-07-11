@@ -24,7 +24,7 @@ Open `File` -> `Preferences` -> `Settings`
 Extension | Objective
 --------- | ---------
 [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) | Debug support for PHP with XDebug
-[PHP Intellisense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) | Autocompletion and Refactoring support for PHP
+[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | High performance, feature rich PHP intellisense
 
 ## Collaboration
 
