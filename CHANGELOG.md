@@ -2,6 +2,11 @@
 
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
 
+## 0.6.0 - 2019-07-11
+
+- Remove `PHP IntelliSense` extension.
+- Add `PHP Intelephense` extension.
+
 ## 0.5.0 - 2019-05-02
 
 - Add `Laravel goto view` extension.
