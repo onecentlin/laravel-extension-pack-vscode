@@ -2,6 +2,15 @@
 
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
 
+## 1.0.0 - 2020-06-29
+
+- Add `Laravel Extra Intellisense` extension
+- Add `Laravel goto controller` extension
+
+Remove PHP extensions in this pack, recommand install  [PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack) instead.
+- Remove `PHP Intelephense` extension
+- Remove `PHP Debug` extensiion
+
 ## 0.6.0 - 2019-07-11
 
 - Remove `PHP IntelliSense` extension.

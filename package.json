@@ -2,7 +2,7 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions for Laravel development",
-    "version": "0.6.1",
+    "version": "1.0.0",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
@@ -30,10 +30,11 @@
         "onecentlin.laravel5-snippets",
         "ryannaddy.laravel-artisan",
         "codingyu.laravel-goto-view",
+        "stef-k.laravel-goto-controller",
+        "amiralizadeh9480.laravel-extra-intellisense",
         "mikestead.dotenv",
         "EditorConfig.EditorConfig",
         "felixfbecker.php-debug",
-        "bmewburn.vscode-intelephense-client",
-        "MS-vsliveshare.vsliveshare"
+        "bmewburn.vscode-intelephense-client"
     ]
 }
