@@ -2,6 +2,13 @@
 
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
 
+## 1.1.0 - 2022-02-22
+
+- Add `laravel-goto-component` extension
+- Add `Laravel Blade formatter` extension
+- Add `Laravel Create View` extension
+- Add `Laravel Blade Wrapper` extension
+
 ## 1.0.0 - 2020-06-29
 
 - Add `Laravel Extra Intellisense` extension

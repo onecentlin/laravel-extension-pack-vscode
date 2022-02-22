@@ -2,7 +2,7 @@
     "name": "laravel-extension-pack",
     "displayName": "Laravel Extension Pack",
     "description": "A collection of extensions for Laravel development",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "onecentlin",
     "repository": {
         "type": "git",
@@ -34,7 +34,9 @@
         "amiralizadeh9480.laravel-extra-intellisense",
         "mikestead.dotenv",
         "EditorConfig.EditorConfig",
-        "felixfbecker.php-debug",
-        "bmewburn.vscode-intelephense-client"
+        "naoray.laravel-goto-components",
+        "shufo.vscode-blade-formatter",
+        "glitchbl.laravel-create-view",
+        "IHunte.laravel-blade-wrapper"
     ]
 }
