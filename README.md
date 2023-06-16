@@ -4,19 +4,19 @@ Includes the basic extensions to get started with [Laravel](https://laravel.com)
 
 ## Laravel Extensions
 
-Extension | Version | Objective
---------- | ------- | ---------
-[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/onecentlin.laravel-blade.svg) | Laravel blade snippets and syntax highlight support
-[Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/onecentlin.laravel5-snippets.svg) | Laravel snippets
-[Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/ryannaddy.laravel-artisan.svg) | Laravel Artisan
-[Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/amiralizadeh9480.laravel-extra-intellisense.svg) | Laravel intellisense enhancement
-[Laravel goto view](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/codingyu.laravel-goto-view.svg) | Laravel blade view easy targeting
-[Laravel goto controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/stef-k.laravel-goto-controller.svg) | Laravel controller easy navigating from route file
-[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mikestead.dotenv.svg) | .env syntax highlighting
-[laravel-goto-components](https://marketplace.visualstudio.com/items?itemName=naoray.laravel-goto-components) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/naoray.laravel-goto-components.svg) | Navigating to blade component file
-[Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/shufo.vscode-blade-formatter.svg) | Blade formatter
-[Laravel Create View](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/glitchbl.laravel-create-view.svg) | Create laravel view using dot notation
-[Laravel Blade Wrapper](https://marketplace.visualstudio.com/items?itemName=IHunte.laravel-blade-wrapper) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/IHunte.laravel-blade-wrapper.svg) | An extension to wrap Blade directives
+Extension | Objective |
+--------- | --------- |
+[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) | Laravel blade snippets and syntax highlight support |
+[Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) | Laravel snippets |
+[Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) | Laravel Artisan |
+[Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) | Laravel intellisense enhancement |
+[Laravel goto view](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) | Laravel blade view easy targeting |
+[laravel-jump-controller](https://marketplace.visualstudio.com/items?itemName=pgl.laravel-jump-controller) | Laravel controller easy navigating from route file |
+[laravel-goto-components](https://marketplace.visualstudio.com/items?itemName=naoray.laravel-goto-components) | Navigating to blade component file |
+[Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) | Blade formatter |
+[Laravel Create View](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view) | Create laravel view using dot notation |
+[Laravel Blade Wrapper](https://marketplace.visualstudio.com/items?itemName=IHunte.laravel-blade-wrapper) | An extension to wrap Blade directives |
+[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | .env syntax highlighting |
 
 ### Blade formatter settings
 
