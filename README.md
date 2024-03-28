@@ -17,6 +17,7 @@ Extension | Objective |
 [Laravel Create View](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view) | Create laravel view using dot notation |
 [Laravel Blade Wrapper](https://marketplace.visualstudio.com/items?itemName=IHunte.laravel-blade-wrapper) | An extension to wrap Blade directives |
 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | .env syntax highlighting |
+[DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb) | Zero-config extension that auto-loads your database and displays the data right inside the IDE |
 
 ### Blade formatter settings
 

@@ -37,6 +37,7 @@
         "naoray.laravel-goto-components",
         "shufo.vscode-blade-formatter",
         "glitchbl.laravel-create-view",
-        "IHunte.laravel-blade-wrapper"
+        "IHunte.laravel-blade-wrapper",
+        "damms005.devdb"
     ]
 }
