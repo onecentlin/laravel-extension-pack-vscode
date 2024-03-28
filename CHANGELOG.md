@@ -2,6 +2,10 @@
 
 All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
 
+## 1.3.0 - 2024-03-29
+
+- Add `DevDb` extension
+
 ## 1.1.0 - 2022-02-22
 
 - Add `laravel-goto-component` extension
